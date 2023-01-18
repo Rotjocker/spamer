@@ -244,7 +244,7 @@ if __name__=="__main__":
      try:
           clear()
           baner()
-          hh="+62"
+          hh="+963"
           no=input("[+]Phone Number: ")
           c=no[1:12]
           w=hh+c 
